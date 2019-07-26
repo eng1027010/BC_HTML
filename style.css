@@ -1,0 +1,17 @@
+.blue{
+    background-color: blue;
+    color: white;
+}
+.green{
+    color: green;
+}
+.Tabel{
+    background-color: #8888;
+}
+.Tabel td{
+    color: #000;
+}
+.st-img{
+    position: inherit;
+    border: 1px #41ad43 solid;
+}
